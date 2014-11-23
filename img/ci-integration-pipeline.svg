@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2979.9211"
+   height="4212.9922"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="ci-integration-pipeline.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="579.6004 : 0 : 0"
+       inkscape:vp_y="938.32933 : 251.42459 : 0"
+       inkscape:vp_z="1.0341818e-13 : 1688.947 : 0"
+       inkscape:persp3d-origin="1016.1315 : -485.86303 : 1"
+       id="perspective5084" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4049"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4047"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3144"
+       is_visible="true" />
+    <radialGradient
+       cx="0.264814"
+       cy="0.268215"
+       fx="0.264814"
+       fy="0.268215"
+       gradientTransform="scale(0.867801,1.152339)"
+       id="radialGradient1096"
+       r="0.665347"
+       xlink:href="#linearGradient1085" />
+    <radialGradient
+       cx="-0.336239"
+       cy="1.569105"
+       fx="-0.336239"
+       fy="1.569105"
+       gradientTransform="scale(0.751916,1.329935)"
+       id="radialGradient1095"
+       r="2.136737"
+       xlink:href="#linearGradient1085" />
+    <radialGradient
+       cx="-0.340903"
+       cy="-1.174612"
+       fx="-0.340903"
+       fy="-1.174612"
+       gradientTransform="scale(0.751916,1.329935)"
+       id="radialGradient1094"
+       r="2.136737"
+       xlink:href="#linearGradient1085" />
+    <radialGradient
+       cx="-2.792794"
+       cy="-0.031801"
+       fx="-2.792794"
+       fy="-0.031801"
+       id="radialGradient1093"
+       r="2.136737"
+       xlink:href="#linearGradient1085" />
+    <radialGradient
+       cx="0.860515"
+       cy="-0.022911"
+       fx="0.860515"
+       fy="-0.022911"
+       id="radialGradient1092"
+       r="2.136737"
+       xlink:href="#linearGradient1085" />
+    <radialGradient
+       cx="-0.33889"
+       cy="0.862865"
+       fx="-0.33889"
+       fy="0.862865"
+       gradientTransform="scale(0.751916,1.329935)"
+       id="radialGradient1091"
+       r="2.136737"
+       xlink:href="#linearGradient1085" />
+    <radialGradient
+       cx="-0.340903"
+       cy="-1.884181"
+       fx="-0.340903"
+       fy="-1.884181"
+       gradientTransform="scale(0.751916,1.329935)"
+       id="radialGradient1090"
+       r="2.136737"
+       xlink:href="#linearGradient1085" />
+    <radialGradient
+       cx="-1.853807"
+       cy="-0.02827"
+       fx="-1.853807"
+       fy="-0.02827"
+       id="radialGradient1089"
+       r="2.136737"
+       xlink:href="#linearGradient1085" />
+    <radialGradient
+       cx="1.799501"
+       cy="-0.033504"
+       fx="1.799501"
+       fy="-0.033504"
+       id="radialGradient1088"
+       r="2.136737"
+       xlink:href="#linearGradient1085" />
+    <linearGradient
+       id="linearGradient1085">
+      <stop
+         id="stop1086"
+         offset="0"
+         stop-color="#00009f" />
+      <stop
+         id="stop1087"
+         offset="1"
+         stop-color="#0000ff" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9"
+     inkscape:cx="523.72393"
+     inkscape:cy="1080.3578"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1829"
+     inkscape:window-height="1035"
+     inkscape:window-x="21"
+     inkscape:window-y="59"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="193.27585,572.75649"
+       id="guide3936" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="203.17097,492.08382"
+       id="guide4190" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,3160.6299)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="163.82979"
+       height="80.851067"
+       x="408.4693"
+       y="-837.17029"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       rx="10"
+       ry="10" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(328.68205,-1236.1708)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion2989"><rect
+           id="rect2991"
+           width="163.82979"
+           height="79.787231"
+           x="79.787231"
+           y="413.00049"
+           style="text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara2995">Jenkins</flowPara></flowRoot>    <rect
+       y="-836.86731"
+       x="103.56622"
+       height="80.851067"
+       width="163.82979"
+       id="rect3099"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       ry="10"
+       rx="10" />
+    <flowRoot
+       transform="translate(23.778984,-1235.8678)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3101"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3103"><rect
+           style="text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           y="413.00049"
+           x="79.787231"
+           height="79.787231"
+           width="163.82979"
+           id="rect3105" /></flowRegion><flowPara
+         id="flowPara3107">GitHub</flowPara></flowRoot>    <g
+       id="g3932"
+       transform="translate(309.52674,-1146.1173)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:transform-center-x="-3.1970253"
+         transform="translate(0,50)"
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3928"
+         sodipodi:sides="3"
+         sodipodi:cx="72.9674"
+         sodipodi:cy="300.12094"
+         sodipodi:r1="12.788101"
+         sodipodi:r2="6.3940506"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 85.755501,300.12094 -9.591076,5.53741 -9.591076,5.53741 0,-11.07482 0,-11.07482 9.591076,5.53741 z" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3930"
+         width="95.143677"
+         height="12.903647"
+         x="-28.640257"
+         y="343.52844" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:25.48216057px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="287.32562"
+       y="-814.72675"
+       id="text3938"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3940"
+         x="287.32562"
+         y="-814.72675"
+         style="font-size:24px">Trigger</tspan></text>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       transform="translate(564.47774,-750.61694)"
+       id="g4005">
+      <path
+         d="m 85.755501,300.12094 -9.591076,5.53741 -9.591076,5.53741 0,-11.07482 0,-11.07482 9.591076,5.53741 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0"
+         sodipodi:r2="6.3940506"
+         sodipodi:r1="12.788101"
+         sodipodi:cy="300.12094"
+         sodipodi:cx="72.9674"
+         sodipodi:sides="3"
+         id="path4007"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star"
+         transform="translate(49.090909,-343.63636)"
+         inkscape:transform-center-x="-3.1970253" />
+      <rect
+         y="-50.107922"
+         x="20.450653"
+         height="12.903647"
+         width="95.143677"
+         id="rect4009"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       sodipodi:linespacing="115%"
+       id="text4011"
+       y="-812.88257"
+       x="635.22363"
+       style="font-size:21.98533058px;font-style:normal;font-weight:normal;line-height:114.99999762%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="-812.88257"
+         x="639.04395"
+         sodipodi:role="line"
+         id="tspan4027"
+         style="font-size:24px;text-align:center;line-height:114.99999762%;text-anchor:middle">Status </tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4015"
+       width="163.82979"
+       height="80.851067"
+       x="709.3512"
+       y="-838.19617"
+       rx="10"
+       ry="10" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       xml:space="preserve"
+       id="flowRoot4017"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(629.56399,-1237.1967)"><flowRegion
+         id="flowRegion4019"><rect
+           id="rect4021"
+           width="163.82979"
+           height="79.787231"
+           x="79.787231"
+           y="413.00049"
+           style="text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4023">GitHub</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4033"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,-3160.6299)"><flowRegion
+         id="flowRegion4035"><rect
+           id="rect4037"
+           width="47.530823"
+           height="70.830246"
+           x="569.43793"
+           y="3358.3694" /></flowRegion><flowPara
+         id="flowPara4039"></flowPara></flowRoot>    <rect
+       ry="10"
+       rx="10"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       y="-338.98917"
+       x="131.74133"
+       height="358.85245"
+       width="673.64935"
+       id="rect5170"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       transform="translate(59.793161,-743.05968)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5197"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5199"><rect
+           style="text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           y="413.00049"
+           x="79.787231"
+           height="79.787231"
+           width="163.82979"
+           id="rect5201" /></flowRegion><flowPara
+         id="flowPara5203">Jenkins</flowPara></flowRoot>    <path
+       d="m 207.43756,-267.60038 c -4.05444,0.13935 -8.6023,1.40785 -11.02841,4.12458 -3.52889,7.01962 5.04361,3.77852 6.05187,8.63826 1.00825,4.85974 -5.04322,5.12848 -5.04322,5.12848 l 0,0 -26.07473,0 0,24.69299 c -0.0726,0.77936 -0.67617,5.28383 -5.45168,4.4203 -5.2055,-0.94129 -1.7338,-8.93661 -9.25286,-5.64211 -2.45594,1.91154 -3.8078,5.2245 -4.25965,8.4904 -0.007,0.051 -0.0184,0.10466 -0.025,0.15564 -0.25787,1.14855 -0.38853,2.46269 -0.33344,3.85998 0.14926,3.78513 1.50802,8.03091 4.41803,10.29588 7.51905,3.29449 4.04737,-4.70861 9.25286,-5.64989 5.2055,-0.94129 5.49337,4.70824 5.49337,4.70824 l 0.15838,24.335 c 0,0 26.16642,-0.19456 26.16641,-0.19456 0,0 6.05148,-0.26875 5.04323,-5.12848 -1.00826,-4.85974 -9.57243,-1.61865 -6.04354,-8.63826 2.42612,-2.71673 6.96564,-3.98524 11.02007,-4.12458 1.49672,-0.0514 2.90436,0.0705 4.13462,0.31129 0.0546,0.006 0.11208,0.0168 0.16671,0.0233 3.49826,0.42184 7.05527,1.6839 9.10281,3.97672 3.5289,7.01962 -5.04361,3.77852 -6.05186,8.63826 -1.00826,4.85974 5.04322,5.12848 5.04322,5.12848 l 25.92468,0.008 0,-25.42451 c 0.36982,-1.58187 1.54787,-4.34721 5.3183,-3.66542 5.2055,0.94128 1.73381,8.94439 9.25286,5.64989 2.45595,-1.91154 3.8078,-5.23229 4.25965,-8.49818 0.007,-0.051 0.0184,-0.0969 0.025,-0.14787 0.25785,-1.14854 0.38853,-2.46267 0.33343,-3.85998 -0.14925,-3.78512 -1.50801,-8.0309 -4.41803,-10.29587 -7.51905,-3.2945 -4.04736,4.7086 -9.25286,5.64989 -5.2055,0.94129 -5.49336,-4.70824 -5.49336,-4.70824 l -0.025,-24.36613 -27.25009,0 c -1.70868,-0.36902 -4.52519,-1.49214 -3.80951,-4.94168 1.00825,-4.85974 9.57243,-1.61865 6.04353,-8.63827 -2.04755,-2.29281 -5.59622,-3.55487 -9.09447,-3.97671 -0.0546,-0.007 -0.11212,-0.0172 -0.16672,-0.0233 -1.23026,-0.24074 -2.63789,-0.36273 -4.13461,-0.31129 z"
+       id="path1175"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51547563;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51547563;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path5535"
+       d="m 391.43756,-109.60038 c -4.05444,0.13935 -8.6023,1.40785 -11.02841,4.12458 -3.52889,7.019623 5.04361,3.77852 6.05187,8.638263 1.00825,4.85974 -5.04322,5.12848 -5.04322,5.12848 l 0,0 -26.07473,0 0,24.69299 c -0.0726,0.77936 -0.67617,5.28383 -5.45168,4.4203 -5.2055,-0.94129 -1.7338,-8.93661 -9.25286,-5.64211 -2.45594,1.91154 -3.8078,5.2245 -4.25965,8.4904 -0.007,0.051 -0.0184,0.10466 -0.025,0.15564 -0.25787,1.148547 -0.38853,2.462687 -0.33344,3.859977 0.14926,3.78513 1.50802,8.03091 4.41803,10.29588 7.51905,3.29449 4.04737,-4.70861 9.25286,-5.64989 5.2055,-0.94129 5.49337,4.70824 5.49337,4.70824 l 0.15838,24.335 c 0,0 26.16642,-0.19456 26.16641,-0.19456 0,0 6.05148,-0.26875 5.04323,-5.12848 -1.00826,-4.85974 -9.57243,-1.61865 -6.04354,-8.63826 2.42612,-2.71673 6.96564,-3.98524 11.02007,-4.12458 1.49672,-0.0514 2.90436,0.0705 4.13462,0.31129 0.0546,0.006 0.11208,0.0168 0.16671,0.0233 3.49826,0.42184 7.05527,1.6839 9.10281,3.97672 3.5289,7.01962 -5.04361,3.77852 -6.05186,8.63826 -1.00826,4.85974 5.04322,5.12848 5.04322,5.12848 l 25.92468,0.008 0,-25.42451 c 0.36982,-1.58187 1.54787,-4.34721 5.3183,-3.66542 5.2055,0.94128 1.73381,8.94439 9.25286,5.64989 2.45595,-1.91154 3.8078,-5.23229 4.25965,-8.49818 0.007,-0.051 0.0184,-0.0969 0.025,-0.14787 0.25785,-1.14854 0.38853,-2.46267 0.33343,-3.85998 -0.14925,-3.785117 -1.50801,-8.030897 -4.41803,-10.295867 -7.51905,-3.2945 -4.04736,4.7086 -9.25286,5.64989 -5.2055,0.94129 -5.49336,-4.70824 -5.49336,-4.70824 l -0.025,-24.36613 -27.25009,0 c -1.70868,-0.36902 -4.52519,-1.49214 -3.80951,-4.94168 1.00825,-4.859743 9.57243,-1.61865 6.04353,-8.638273 -2.04755,-2.29281 -5.59622,-3.55487 -9.09447,-3.97671 -0.0546,-0.007 -0.11212,-0.0172 -0.16672,-0.0233 -1.23026,-0.24074 -2.63789,-0.36273 -4.13461,-0.31129 z"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51547563;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path5547"
+       d="m 233.43756,-89.600377 c -4.05444,0.13935 -8.6023,1.40785 -11.02841,4.12458 -3.52889,7.01962 5.04361,3.77852 6.05187,8.63826 1.00825,4.85974 -5.04322,5.12848 -5.04322,5.12848 l 0,0 -26.07473,0 0,24.69299 c -0.0726,0.77936 -0.67617,5.28383 -5.45168,4.4203 -5.2055,-0.94129 -1.7338,-8.93661 -9.25286,-5.64211 -2.45594,1.91154 -3.8078,5.2245 -4.25965,8.4904 -0.007,0.051 -0.0184,0.10466 -0.025,0.15564 -0.25787,1.148547 -0.38853,2.462687 -0.33344,3.859977 0.14926,3.78513 1.50802,8.03091 4.41803,10.29588 7.51905,3.29449 4.04737,-4.70861 9.25286,-5.64989 5.2055,-0.94129 5.49337,4.70824 5.49337,4.70824 l 0.15838,24.335 c 0,0 26.16642,-0.19456 26.16641,-0.19456 0,0 6.05148,-0.26875 5.04323,-5.12848 -1.00826,-4.85974 -9.57243,-1.61865 -6.04354,-8.63826 2.42612,-2.71673 6.96564,-3.98524 11.02007,-4.12458 1.49672,-0.0514 2.90436,0.0705 4.13462,0.31129 0.0546,0.006 0.11208,0.0168 0.16671,0.0233 3.49826,0.42184 7.05527,1.6839 9.10281,3.97672 3.5289,7.01962 -5.04361,3.77852 -6.05186,8.63826 -1.00826,4.85974 5.04322,5.12848 5.04322,5.12848 l 25.92468,0.008 0,-25.42451 c 0.36982,-1.58187 1.54787,-4.34721 5.3183,-3.66542 5.2055,0.94128 1.73381,8.94439 9.25286,5.64989 2.45595,-1.91154 3.8078,-5.23229 4.25965,-8.49818 0.007,-0.051 0.0184,-0.0969 0.025,-0.14787 0.25785,-1.14854 0.38853,-2.46267 0.33343,-3.85998 -0.14925,-3.785117 -1.50801,-8.030897 -4.41803,-10.295867 -7.51905,-3.2945 -4.04736,4.7086 -9.25286,5.64989 -5.2055,0.94129 -5.49336,-4.70824 -5.49336,-4.70824 l -0.025,-24.36613 -27.25009,0 c -1.70868,-0.36902 -4.52519,-1.49214 -3.80951,-4.94168 1.00825,-4.85974 9.57243,-1.61865 6.04353,-8.63827 -2.04755,-2.29281 -5.59622,-3.55487 -9.09447,-3.97671 -0.0546,-0.007 -0.11212,-0.0172 -0.16672,-0.0233 -1.23026,-0.24074 -2.63789,-0.36273 -4.13461,-0.31129 z"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 325.43756,-197.60038 c -4.05444,0.13935 -8.6023,1.40785 -11.02841,4.12458 -3.52889,7.01962 5.04361,3.77852 6.05187,8.63826 1.00825,4.85974 -5.04322,5.12848 -5.04322,5.12848 l 0,0 -26.07473,0 0,24.69299 c -0.0726,0.77936 -0.67617,5.28383 -5.45168,4.4203 -5.2055,-0.94129 -1.7338,-8.93661 -9.25286,-5.64211 -2.45594,1.91154 -3.8078,5.2245 -4.25965,8.4904 -0.007,0.051 -0.0184,0.10466 -0.025,0.15564 -0.25787,1.14855 -0.38853,2.46269 -0.33344,3.85998 0.14926,3.78513 1.50802,8.03091 4.41803,10.29588 7.51905,3.29449 4.04737,-4.70861 9.25286,-5.64989 5.2055,-0.94129 5.49337,4.70824 5.49337,4.70824 l 0.15838,24.335 c 0,0 26.16642,-0.19456 26.16641,-0.19456 0,0 6.05148,-0.26875 5.04323,-5.12848 -1.00826,-4.85974 -9.57243,-1.61865 -6.04354,-8.63826 2.42612,-2.71673 6.96564,-3.98524 11.02007,-4.12458 1.49672,-0.0514 2.90436,0.0705 4.13462,0.31129 0.0546,0.006 0.11208,0.0168 0.16671,0.0233 3.49826,0.42184 7.05527,1.6839 9.10281,3.97672 3.5289,7.01962 -5.04361,3.77852 -6.05186,8.63826 -1.00826,4.85974 5.04322,5.12848 5.04322,5.12848 l 25.92468,0.008 0,-25.42451 c 0.36982,-1.58187 1.54787,-4.34721 5.3183,-3.66542 5.2055,0.94128 1.73381,8.94439 9.25286,5.64989 2.45595,-1.91154 3.8078,-5.23229 4.25965,-8.49818 0.007,-0.051 0.0184,-0.0969 0.025,-0.14787 0.25785,-1.14854 0.38853,-2.46267 0.33343,-3.85998 -0.14925,-3.78512 -1.50801,-8.0309 -4.41803,-10.29587 -7.51905,-3.2945 -4.04736,4.7086 -9.25286,5.64989 -5.2055,0.94129 -5.49336,-4.70824 -5.49336,-4.70824 l -0.025,-24.36613 -27.25009,0 c -1.70868,-0.36902 -4.52519,-1.49214 -3.80951,-4.94168 1.00825,-4.85974 9.57243,-1.61865 6.04353,-8.63827 -2.04755,-2.29281 -5.59622,-3.55487 -9.09447,-3.97671 -0.0546,-0.007 -0.11212,-0.0172 -0.16672,-0.0233 -1.23026,-0.24074 -2.63789,-0.36273 -4.13461,-0.31129 z"
+       id="path5549"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51547563;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51547563;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path5551"
+       d="m 491.43756,-205.60038 c -4.05444,0.13935 -8.6023,1.40785 -11.02841,4.12458 -3.52889,7.01962 5.04361,3.77852 6.05187,8.63826 1.00825,4.85974 -5.04322,5.12848 -5.04322,5.12848 l 0,0 -26.07473,0 0,24.69299 c -0.0726,0.77936 -0.67617,5.28383 -5.45168,4.4203 -5.2055,-0.94129 -1.7338,-8.93661 -9.25286,-5.64211 -2.45594,1.91154 -3.8078,5.2245 -4.25965,8.4904 -0.007,0.051 -0.0184,0.10466 -0.025,0.15564 -0.25787,1.14855 -0.38853,2.46269 -0.33344,3.85998 0.14926,3.78513 1.50802,8.03091 4.41803,10.29588 7.51905,3.29449 4.04737,-4.70861 9.25286,-5.64989 5.2055,-0.94129 5.49337,4.70824 5.49337,4.70824 l 0.15838,24.335 c 0,0 26.16642,-0.19456 26.16641,-0.19456 0,0 6.05148,-0.26875 5.04323,-5.12848 -1.00826,-4.85974 -9.57243,-1.61865 -6.04354,-8.63826 2.42612,-2.71673 6.96564,-3.98524 11.02007,-4.12458 1.49672,-0.0514 2.90436,0.0705 4.13462,0.31129 0.0546,0.006 0.11208,0.0168 0.16671,0.0233 3.49826,0.42184 7.05527,1.6839 9.10281,3.97672 3.5289,7.01962 -5.04361,3.77852 -6.05186,8.63826 -1.00826,4.85974 5.04322,5.12848 5.04322,5.12848 l 25.92468,0.008 0,-25.42451 c 0.36982,-1.58187 1.54787,-4.34721 5.3183,-3.66542 5.2055,0.94128 1.73381,8.94439 9.25286,5.64989 2.45595,-1.91154 3.8078,-5.23229 4.25965,-8.49818 0.007,-0.051 0.0184,-0.0969 0.025,-0.14787 0.25785,-1.14854 0.38853,-2.46267 0.33343,-3.85998 -0.14925,-3.78512 -1.50801,-8.0309 -4.41803,-10.29587 -7.51905,-3.2945 -4.04736,4.7086 -9.25286,5.64989 -5.2055,0.94129 -5.49336,-4.70824 -5.49336,-4.70824 l -0.025,-24.36613 -27.25009,0 c -1.70868,-0.36902 -4.52519,-1.49214 -3.80951,-4.94168 1.00825,-4.85974 9.57243,-1.61865 6.04353,-8.63827 -2.04755,-2.29281 -5.59622,-3.55487 -9.09447,-3.97671 -0.0546,-0.007 -0.11212,-0.0172 -0.16672,-0.0233 -1.23026,-0.24074 -2.63789,-0.36273 -4.13461,-0.31129 z"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 575.43756,-89.600377 c -4.05444,0.13935 -8.6023,1.40785 -11.02841,4.12458 -3.52889,7.01962 5.04361,3.77852 6.05187,8.63826 1.00825,4.85974 -5.04322,5.12848 -5.04322,5.12848 l 0,0 -26.07473,0 0,24.692987 c -0.0726,0.77936 -0.67617,5.28383 -5.45168,4.4203 -5.2055,-0.94129 -1.7338,-8.936607 -9.25286,-5.64211 -2.45594,1.91154 -3.8078,5.2245 -4.25965,8.4904 -0.007,0.051 -0.0184,0.10466 -0.025,0.15564 -0.25787,1.14855 -0.38853,2.46269 -0.33344,3.85998 0.14926,3.78513 1.50802,8.03091 4.41803,10.29588 7.51905,3.29449 4.04737,-4.70861 9.25286,-5.64989 5.2055,-0.94129 5.49337,4.70824 5.49337,4.70824 l 0.15838,24.335 c 0,0 26.16642,-0.19456 26.16641,-0.19456 0,0 6.05148,-0.26875 5.04323,-5.12848 -1.00826,-4.85974 -9.57243,-1.61865 -6.04354,-8.63826 2.42612,-2.71673 6.96564,-3.98524 11.02007,-4.12458 1.49672,-0.0514 2.90436,0.0705 4.13462,0.31129 0.0546,0.006 0.11208,0.0168 0.16671,0.0233 3.49826,0.42184 7.05527,1.6839 9.10281,3.97672 3.5289,7.01962 -5.04361,3.77852 -6.05186,8.63826 -1.00826,4.85974 5.04322,5.12848 5.04322,5.12848 l 25.92468,0.008 0,-25.42451 c 0.36982,-1.58187 1.54787,-4.34721 5.3183,-3.66542 5.2055,0.94128 1.73381,8.94439 9.25286,5.64989 2.45595,-1.91154 3.8078,-5.23229 4.25965,-8.49818 0.007,-0.051 0.0184,-0.0969 0.025,-0.14787 0.25785,-1.14854 0.38853,-2.46267 0.33343,-3.85998 -0.14925,-3.78512 -1.50801,-8.0309 -4.41803,-10.29587 -7.51905,-3.294497 -4.04736,4.7086 -9.25286,5.64989 -5.2055,0.94129 -5.49336,-4.70824 -5.49336,-4.70824 l -0.025,-24.366127 -27.25009,0 c -1.70868,-0.36902 -4.52519,-1.49214 -3.80951,-4.94168 1.00825,-4.85974 9.57243,-1.61865 6.04353,-8.63827 -2.04755,-2.29281 -5.59622,-3.55487 -9.09447,-3.97671 -0.0546,-0.007 -0.11212,-0.0172 -0.16672,-0.0233 -1.23026,-0.24074 -2.63789,-0.36273 -4.13461,-0.31129 z"
+       id="path5553"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51547563;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51547563;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path5555"
+       d="m 695.43756,-141.60038 c -4.05444,0.13935 -8.6023,1.40785 -11.02841,4.12458 -3.52889,7.01962 5.04361,3.77852 6.05187,8.63826 1.00825,4.85974 -5.04322,5.12848 -5.04322,5.12848 l 0,0 -26.07473,0 0,24.69299 c -0.0726,0.77936 -0.67617,5.28383 -5.45168,4.4203 -5.2055,-0.94129 -1.7338,-8.93661 -9.25286,-5.64211 -2.45594,1.91154 -3.8078,5.2245 -4.25965,8.4904 -0.007,0.051 -0.0184,0.10466 -0.025,0.15564 -0.25787,1.14855 -0.38853,2.46269 -0.33344,3.85998 0.14926,3.78513 1.50802,8.03091 4.41803,10.29588 7.51905,3.29449 4.04737,-4.70861 9.25286,-5.64989 5.2055,-0.94129 5.49337,4.70824 5.49337,4.70824 l 0.15838,24.335 c 0,0 26.16642,-0.19456 26.16641,-0.19456 0,0 6.05148,-0.26875 5.04323,-5.12848 -1.00826,-4.85974 -9.57243,-1.61865 -6.04354,-8.63826 2.42612,-2.71673 6.96564,-3.98524 11.02007,-4.12458 1.49672,-0.0514 2.90436,0.0705 4.13462,0.31129 0.0546,0.006 0.11208,0.0168 0.16671,0.0233 3.49826,0.42184 7.05527,1.6839 9.10281,3.97672 3.5289,7.01962 -5.04361,3.77852 -6.05186,8.63826 -1.00826,4.85974 5.04322,5.12848 5.04322,5.12848 l 25.92468,0.008 0,-25.42451 c 0.36982,-1.58187 1.54787,-4.34721 5.3183,-3.66542 5.2055,0.94128 1.73381,8.94439 9.25286,5.64989 2.45595,-1.91154 3.8078,-5.23229 4.25965,-8.49818 0.007,-0.051 0.0184,-0.0969 0.025,-0.14787 0.25785,-1.14854 0.38853,-2.46267 0.33343,-3.85998 -0.14925,-3.78512 -1.50801,-8.0309 -4.41803,-10.29587 -7.51905,-3.2945 -4.04736,4.7086 -9.25286,5.64989 -5.2055,0.94129 -5.49336,-4.708237 -5.49336,-4.708237 l -0.025,-24.366133 -27.25009,0 c -1.70868,-0.36902 -4.52519,-1.49214 -3.80951,-4.94168 1.00825,-4.85974 9.57243,-1.61865 6.04353,-8.63827 -2.04755,-2.29281 -5.59622,-3.55487 -9.09447,-3.97671 -0.0546,-0.007 -0.11212,-0.0172 -0.16672,-0.0233 -1.23026,-0.24074 -2.63789,-0.36273 -4.13461,-0.31129 z"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51547563;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path5557"
+       d="m 385.43756,-315.60038 c -4.05444,0.13935 -8.6023,1.40785 -11.02841,4.12458 -3.52889,7.01962 5.04361,3.77852 6.05187,8.63826 1.00825,4.85974 -5.04322,5.12848 -5.04322,5.12848 l 0,0 -26.07473,0 0,24.69299 c -0.0726,0.77936 -0.67617,5.28383 -5.45168,4.4203 -5.2055,-0.94129 -1.7338,-8.93661 -9.25286,-5.64211 -2.45594,1.91154 -3.8078,5.2245 -4.25965,8.4904 -0.007,0.051 -0.0184,0.10466 -0.025,0.15564 -0.25787,1.14855 -0.38853,2.46269 -0.33344,3.85998 0.14926,3.78513 1.50802,8.03091 4.41803,10.29588 7.51905,3.29449 4.04737,-4.70861 9.25286,-5.64989 5.2055,-0.94129 5.49337,4.70824 5.49337,4.70824 l 0.15838,24.335 c 0,0 26.16642,-0.19456 26.16641,-0.19456 0,0 6.05148,-0.26875 5.04323,-5.12848 -1.00826,-4.85974 -9.57243,-1.61865 -6.04354,-8.63826 2.42612,-2.71673 6.96564,-3.98524 11.02007,-4.12458 1.49672,-0.0514 2.90436,0.0705 4.13462,0.31129 0.0546,0.006 0.11208,0.0168 0.16671,0.0233 3.49826,0.42184 7.05527,1.6839 9.10281,3.97672 3.5289,7.01962 -5.04361,3.77852 -6.05186,8.63826 -1.00826,4.85974 5.04322,5.12848 5.04322,5.12848 l 25.92468,0.008 0,-25.42451 c 0.36982,-1.58187 1.54787,-4.34721 5.3183,-3.66542 5.2055,0.94128 1.73381,8.94439 9.25286,5.64989 2.45595,-1.91154 3.8078,-5.23229 4.25965,-8.49818 0.007,-0.051 0.0184,-0.0969 0.025,-0.14787 0.25785,-1.14854 0.38853,-2.46267 0.33343,-3.85998 -0.14925,-3.78512 -1.50801,-8.0309 -4.41803,-10.29587 -7.51905,-3.2945 -4.04736,4.7086 -9.25286,5.64989 -5.2055,0.94129 -5.49336,-4.70824 -5.49336,-4.70824 l -0.025,-24.36613 -27.25009,0 c -1.70868,-0.36902 -4.52519,-1.49214 -3.80951,-4.94168 1.00825,-4.85974 9.57243,-1.61865 6.04353,-8.63827 -2.04755,-2.29281 -5.59622,-3.55487 -9.09447,-3.97671 -0.0546,-0.007 -0.11212,-0.0172 -0.16672,-0.0233 -1.23026,-0.24074 -2.63789,-0.36273 -4.13461,-0.31129 z"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 711.43756,-329.60038 c -4.05444,0.13935 -8.6023,1.40785 -11.02841,4.12458 -3.52889,7.01962 5.04361,3.77852 6.05187,8.63826 1.00825,4.85974 -5.04322,5.12848 -5.04322,5.12848 l 0,0 -26.07473,0 0,24.69299 c -0.0726,0.77936 -0.67617,5.28383 -5.45168,4.4203 -5.2055,-0.94129 -1.7338,-8.93661 -9.25286,-5.64211 -2.45594,1.91154 -3.8078,5.2245 -4.25965,8.4904 -0.007,0.051 -0.0184,0.10466 -0.025,0.15564 -0.25787,1.14855 -0.38853,2.46269 -0.33344,3.85998 0.14926,3.78513 1.50802,8.03091 4.41803,10.29588 7.51905,3.29449 4.04737,-4.70861 9.25286,-5.64989 5.2055,-0.94129 5.49337,4.70824 5.49337,4.70824 l 0.15838,24.335 c 0,0 26.16642,-0.19456 26.16641,-0.19456 0,0 6.05148,-0.26875 5.04323,-5.12848 -1.00826,-4.85974 -9.57243,-1.61865 -6.04354,-8.63826 2.42612,-2.71673 6.96564,-3.98524 11.02007,-4.12458 1.49672,-0.0514 2.90436,0.0705 4.13462,0.31129 0.0546,0.006 0.11208,0.0168 0.16671,0.0233 3.49826,0.42184 7.05527,1.6839 9.10281,3.97672 3.5289,7.01962 -5.04361,3.77852 -6.05186,8.63826 -1.00826,4.85974 5.04322,5.12848 5.04322,5.12848 l 25.92468,0.008 0,-25.42451 c 0.36982,-1.58187 1.54787,-4.34721 5.3183,-3.66542 5.2055,0.94128 1.73381,8.94439 9.25286,5.64989 2.45595,-1.91154 3.8078,-5.23229 4.25965,-8.49818 0.007,-0.051 0.0184,-0.0969 0.025,-0.14787 0.25785,-1.14854 0.38853,-2.46267 0.33343,-3.85998 -0.14925,-3.78512 -1.50801,-8.0309 -4.41803,-10.29587 -7.51905,-3.2945 -4.04736,4.7086 -9.25286,5.64989 -5.2055,0.94129 -5.49336,-4.70824 -5.49336,-4.70824 l -0.025,-24.36613 -27.25009,0 c -1.70868,-0.36902 -4.52519,-1.49214 -3.80951,-4.94168 1.00825,-4.85974 9.57243,-1.61865 6.04353,-8.63827 -2.04755,-2.29281 -5.59622,-3.55487 -9.09447,-3.97671 -0.0546,-0.007 -0.11212,-0.0172 -0.16672,-0.0233 -1.23026,-0.24074 -2.63789,-0.36273 -4.13461,-0.31129 z"
+       id="path5611"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51547563;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51547563;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path5619"
+       d="m 611.43756,-249.60038 c -4.05444,0.13935 -8.6023,1.40785 -11.02841,4.12458 -3.52889,7.01962 5.04361,3.77852 6.05187,8.63826 1.00825,4.85974 -5.04322,5.12848 -5.04322,5.12848 l 0,0 -26.07473,0 0,24.69299 c -0.0726,0.77936 -0.67617,5.28383 -5.45168,4.4203 -5.2055,-0.94129 -1.7338,-8.93661 -9.25286,-5.64211 -2.45594,1.91154 -3.8078,5.2245 -4.25965,8.4904 -0.007,0.051 -0.0184,0.10466 -0.025,0.15564 -0.25787,1.14855 -0.38853,2.46269 -0.33344,3.85998 0.14926,3.78513 1.50802,8.03091 4.41803,10.29588 7.51905,3.29449 4.04737,-4.70861 9.25286,-5.64989 5.2055,-0.94129 5.49337,4.70824 5.49337,4.70824 l 0.15838,24.335 c 0,0 26.16642,-0.19456 26.16641,-0.19456 0,0 6.05148,-0.26875 5.04323,-5.12848 -1.00826,-4.85974 -9.57243,-1.61865 -6.04354,-8.63826 2.42612,-2.71673 6.96564,-3.98524 11.02007,-4.12458 1.49672,-0.0514 2.90436,0.0705 4.13462,0.31129 0.0546,0.006 0.11208,0.0168 0.16671,0.0233 3.49826,0.42184 7.05527,1.6839 9.10281,3.97672 3.5289,7.01962 -5.04361,3.77852 -6.05186,8.63826 -1.00826,4.85974 5.04322,5.12848 5.04322,5.12848 l 25.92468,0.008 0,-25.42451 c 0.36982,-1.58187 1.54787,-4.34721 5.3183,-3.66542 5.2055,0.94128 1.73381,8.94439 9.25286,5.64989 2.45595,-1.91154 3.8078,-5.23229 4.25965,-8.49818 0.007,-0.051 0.0184,-0.0969 0.025,-0.14787 0.25785,-1.14854 0.38853,-2.46267 0.33343,-3.85998 -0.14925,-3.78512 -1.50801,-8.0309 -4.41803,-10.29587 -7.51905,-3.2945 -4.04736,4.7086 -9.25286,5.64989 -5.2055,0.94129 -5.49336,-4.70824 -5.49336,-4.70824 l -0.025,-24.36613 -27.25009,0 c -1.70868,-0.36902 -4.52519,-1.49214 -3.80951,-4.94168 1.00825,-4.85974 9.57243,-1.61865 6.04353,-8.63827 -2.04755,-2.29281 -5.59622,-3.55487 -9.09447,-3.97671 -0.0546,-0.007 -0.11212,-0.0172 -0.16672,-0.0233 -1.23026,-0.24074 -2.63789,-0.36273 -4.13461,-0.31129 z"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 531.43756,-329.60038 c -4.05444,0.13935 -8.6023,1.40785 -11.02841,4.12458 -3.52889,7.01962 5.04361,3.77852 6.05187,8.63826 1.00825,4.85974 -5.04322,5.12848 -5.04322,5.12848 l 0,0 -26.07473,0 0,24.69299 c -0.0726,0.77936 -0.67617,5.28383 -5.45168,4.4203 -5.2055,-0.94129 -1.7338,-8.93661 -9.25286,-5.64211 -2.45594,1.91154 -3.8078,5.2245 -4.25965,8.4904 -0.007,0.051 -0.0184,0.10466 -0.025,0.15564 -0.25787,1.14855 -0.38853,2.46269 -0.33344,3.85998 0.14926,3.78513 1.50802,8.03091 4.41803,10.29588 7.51905,3.29449 4.04737,-4.70861 9.25286,-5.64989 5.2055,-0.94129 5.49337,4.70824 5.49337,4.70824 l 0.15838,24.335 c 0,0 26.16642,-0.19456 26.16641,-0.19456 0,0 6.05148,-0.26875 5.04323,-5.12848 -1.00826,-4.85974 -9.57243,-1.61865 -6.04354,-8.63826 2.42612,-2.71673 6.96564,-3.98524 11.02007,-4.12458 1.49672,-0.0514 2.90436,0.0705 4.13462,0.31129 0.0546,0.006 0.11208,0.0168 0.16671,0.0233 3.49826,0.42184 7.05527,1.6839 9.10281,3.97672 3.5289,7.01962 -5.04361,3.77852 -6.05186,8.63826 -1.00826,4.85974 5.04322,5.12848 5.04322,5.12848 l 25.92468,0.008 0,-25.42451 c 0.36982,-1.58187 1.54787,-4.34721 5.3183,-3.66542 5.2055,0.94128 1.73381,8.94439 9.25286,5.64989 2.45595,-1.91154 3.8078,-5.23229 4.25965,-8.49818 0.007,-0.051 0.0184,-0.0969 0.025,-0.14787 0.25785,-1.14854 0.38853,-2.46267 0.33343,-3.85998 -0.14925,-3.78512 -1.50801,-8.0309 -4.41803,-10.29587 -7.51905,-3.2945 -4.04736,4.7086 -9.25286,5.64989 -5.2055,0.94129 -5.49336,-4.70824 -5.49336,-4.70824 l -0.025,-24.36613 -27.25009,0 c -1.70868,-0.36902 -4.52519,-1.49214 -3.80951,-4.94168 1.00825,-4.85974 9.57243,-1.61865 6.04353,-8.63827 -2.04755,-2.29281 -5.59622,-3.55487 -9.09447,-3.97671 -0.0546,-0.007 -0.11212,-0.0172 -0.16672,-0.0233 -1.23026,-0.24074 -2.63789,-0.36273 -4.13461,-0.31129 z"
+       id="path5633"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51547563;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5537"
+       y="-213.41536"
+       x="173.33334"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="-213.41536"
+         x="173.33334"
+         id="tspan5539"
+         sodipodi:role="line">GitHub</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="393.34906"
+       y="-66.34317"
+       id="text5541"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5543"
+         x="393.34906"
+         y="-66.34317">Check-</tspan><tspan
+         id="tspan5545"
+         sodipodi:role="line"
+         x="393.34906"
+         y="-46.343166">style</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5559"
+       y="-272.34317"
+       x="385.34906"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="-272.34317"
+         x="385.34906"
+         sodipodi:role="line"
+         id="tspan5563">Build</tspan><tspan
+         id="tspan5567"
+         y="-252.34317"
+         x="385.34906"
+         sodipodi:role="line">Flow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="575.34906"
+       y="-46.343166"
+       id="text5569"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:16px"
+         sodipodi:role="line"
+         x="575.34906"
+         y="-46.343166"
+         id="tspan5573">Task</tspan><tspan
+         style="font-size:16px"
+         id="tspan5577"
+         sodipodi:role="line"
+         x="575.34906"
+         y="-30.343166">Scanner</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5579"
+       y="-32.343166"
+       x="233.34906"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="-32.343166"
+         x="233.34906"
+         sodipodi:role="line"
+         id="tspan5583">PMD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="325.34906"
+       y="-154.34317"
+       id="text5587"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan5589"
+         sodipodi:role="line"
+         x="325.34906"
+         y="-154.34317">Find</tspan><tspan
+         id="tspan5591"
+         sodipodi:role="line"
+         x="325.34906"
+         y="-134.34317">Bugs</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5593"
+       y="-164.34317"
+       x="493.34906"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="-164.34317"
+         x="493.34906"
+         sodipodi:role="line"
+         id="tspan5597">Warn-</tspan><tspan
+         id="tspan5601"
+         y="-144.34317"
+         x="493.34906"
+         sodipodi:role="line">ings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="695.34906"
+       y="-84.34317"
+       id="text5603"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="695.34906"
+         y="-84.34317"
+         id="tspan5607">DRY</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5613"
+       y="-286.34317"
+       x="713.34906"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:16px"
+         y="-286.34317"
+         x="713.34906"
+         sodipodi:role="line"
+         id="tspan5617">Perform-</tspan><tspan
+         id="tspan5631"
+         style="font-size:16px"
+         y="-270.34317"
+         x="713.34906"
+         sodipodi:role="line">ance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="613.34906"
+       y="-194.34317"
+       id="text5621"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan5625"
+         sodipodi:role="line"
+         x="613.34906"
+         y="-194.34317">Emma</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5635"
+       y="-274.34317"
+       x="532.34924"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="-274.34317"
+         x="532.34924"
+         sodipodi:role="line"
+         id="tspan5637">Metrics</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5639"
+       width="673.64935"
+       height="358.85245"
+       x="131.74133"
+       y="41.010834"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       rx="10"
+       ry="10" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5641"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(53.793161,-363.05968)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion5643"><rect
+           id="rect5645"
+           width="548.02448"
+           height="90.000999"
+           x="79.787231"
+           y="413.00049"
+           style="text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara5647">jenkins-gcloud-sdk-docker</flowPara></flowRoot>    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.46945846;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5714"
+       width="345.28479"
+       height="183.93294"
+       x="436.68585"
+       y="194.71901"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       rx="5.1255865"
+       ry="5.1255865" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5716"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.51255863,0,0,0.51255863,399.80815,-12.390837)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion5718"><rect
+           id="rect5720"
+           width="163.82979"
+           height="79.787231"
+           x="79.787231"
+           y="413.00049"
+           style="text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara5722">Jenkins</flowPara></flowRoot>    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26421148;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path5724"
+       d="m 475.48457,231.30993 c -2.07814,0.0714 -4.40918,0.72161 -5.65271,2.1141 -1.80876,3.59797 2.58514,1.9367 3.10194,4.42761 0.51679,2.49091 -2.58494,2.62864 -2.58494,2.62864 l 0,0 -13.36483,0 0,12.65661 c -0.0372,0.39947 -0.34659,2.70827 -2.79431,2.26567 -2.66812,-0.48247 -0.88867,-4.58054 -4.74263,-2.89191 -1.25881,0.97977 -1.95172,2.67785 -2.18332,4.35181 -0.003,0.0262 -0.009,0.0536 -0.0132,0.0798 -0.1321,0.58871 -0.19914,1.26228 -0.17091,1.97847 0.0766,1.94011 0.77295,4.11632 2.26451,5.27725 3.85395,1.68861 2.07451,-2.41344 4.74263,-2.89591 2.66813,-0.48246 2.81567,2.41325 2.81567,2.41325 l 0.0811,12.47312 c 0,0 13.41182,-0.0998 13.41182,-0.0998 0,0 3.10173,-0.13769 2.58495,-2.62865 -0.51679,-2.4909 -4.90643,-0.82965 -3.09767,-4.42761 1.24353,-1.39249 3.57029,-2.04267 5.64843,-2.1141 0.76716,-0.0263 1.48867,0.0362 2.11924,0.15957 0.0279,0.003 0.0575,0.009 0.0855,0.0118 1.79307,0.21622 3.61624,0.86311 4.66572,2.0383 1.80878,3.59797 -2.58514,1.93672 -3.10193,4.42763 -0.51678,2.49089 2.58495,2.62864 2.58495,2.62864 l 13.28792,0.004 0,-13.03155 c 0.18956,-0.81081 0.79337,-2.2282 2.72594,-1.87875 2.66813,0.48247 0.88867,4.58453 4.74264,2.8959 1.25881,-0.97977 1.95172,-2.68185 2.18332,-4.35581 0.003,-0.0262 0.009,-0.0497 0.0132,-0.0758 0.13211,-0.5887 0.19914,-1.26227 0.1709,-1.97847 -0.0766,-1.94009 -0.77295,-4.1163 -2.26449,-5.27723 -3.85397,-1.68863 -2.07453,2.41344 -4.74265,2.8959 -2.66811,0.48246 -2.81566,-2.41326 -2.81566,-2.41326 l -0.0132,-12.48906 -13.96728,0 c -0.8758,-0.18915 -2.31942,-0.76481 -1.95259,-2.5329 0.51678,-2.49091 4.90642,-0.82966 3.09767,-4.42763 -1.04951,-1.1752 -2.8684,-1.82207 -4.66146,-2.03828 -0.0279,-0.003 -0.0575,-0.009 -0.0855,-0.0118 -0.63057,-0.12344 -1.35208,-0.18592 -2.11922,-0.15955 z"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 569.79535,312.2942 c -2.07814,0.0714 -4.40918,0.7216 -5.6527,2.11409 -1.80877,3.59797 2.58515,1.9367 3.10194,4.42761 0.51678,2.49091 -2.58495,2.62866 -2.58495,2.62866 l 0,0 -13.36483,0 0,12.65659 c -0.0372,0.39947 -0.34657,2.70828 -2.79431,2.26567 -2.66812,-0.48247 -0.88867,-4.58054 -4.74263,-2.89191 -1.25881,0.97978 -1.95172,2.67785 -2.18332,4.35183 -0.003,0.0262 -0.009,0.0536 -0.0132,0.0798 -0.1321,0.58871 -0.19914,1.26228 -0.17089,1.97847 0.0765,1.94011 0.77295,4.11632 2.26449,5.27725 3.85395,1.68861 2.07452,-2.41344 4.74263,-2.89591 2.66813,-0.48247 2.81568,2.41325 2.81568,2.41325 l 0.0813,12.47311 c 0,0 13.41182,-0.0998 13.41182,-0.0998 0,0 3.10173,-0.13769 2.58494,-2.62866 -0.5168,-2.49089 -4.90644,-0.82964 -3.09767,-4.42761 1.24353,-1.39249 3.5703,-2.04266 5.64844,-2.11408 0.76715,-0.0263 1.48865,0.0362 2.11922,0.15956 0.0279,0.003 0.0575,0.009 0.0854,0.0118 1.79306,0.21622 3.61625,0.8631 4.66574,2.0383 1.80875,3.59797 -2.58516,1.93672 -3.10194,4.42763 -0.5168,2.49089 2.58494,2.62864 2.58494,2.62864 l 13.28793,0.004 0,-13.03156 c 0.18954,-0.8108 0.79337,-2.2282 2.72593,-1.87873 2.66812,0.48245 0.88868,4.58452 4.74263,2.89589 1.25883,-0.97977 1.95172,-2.68185 2.18332,-4.35581 0.003,-0.0262 0.009,-0.0497 0.0132,-0.0758 0.1321,-0.58869 0.19914,-1.26226 0.1709,-1.97846 -0.0766,-1.9401 -0.77294,-4.11631 -2.2645,-5.27724 -3.85395,-1.68862 -2.07451,2.41344 -4.74263,2.89591 -2.66813,0.48247 -2.81567,-2.41325 -2.81567,-2.41325 l -0.0132,-12.48907 -13.96726,0 c -0.8758,-0.18915 -2.31942,-0.76481 -1.9526,-2.53291 0.51679,-2.49089 4.90643,-0.82965 3.09766,-4.42762 -1.04949,-1.1752 -2.86838,-1.82207 -4.66144,-2.03829 -0.0281,-0.003 -0.0575,-0.009 -0.0855,-0.0118 -0.63059,-0.12344 -1.35207,-0.18592 -2.11923,-0.15956 z"
+       id="path5726"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26421148;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 488.81109,322.54537 c -2.07814,0.0714 -4.40919,0.72161 -5.6527,2.1141 -1.80877,3.59795 2.58514,1.9367 3.10194,4.42761 0.51678,2.49089 -2.58496,2.62864 -2.58496,2.62864 l 0,0 -13.36482,0 0,12.65661 c -0.0372,0.39947 -0.34657,2.70827 -2.79431,2.26567 -2.66812,-0.48247 -0.88867,-4.58054 -4.74263,-2.89193 -1.25881,0.97978 -1.95172,2.67787 -2.18332,4.35183 -0.003,0.0262 -0.009,0.0536 -0.0132,0.0798 -0.1321,0.5887 -0.19914,1.26228 -0.1709,1.97847 0.0766,1.94009 0.77295,4.11632 2.2645,5.27725 3.85395,1.68861 2.0745,-2.41344 4.74263,-2.89591 2.66812,-0.48246 2.81567,2.41325 2.81567,2.41325 l 0.0813,12.47312 c 0,0 13.41182,-0.0998 13.41181,-0.0998 0,0 3.10175,-0.13769 2.58495,-2.62865 -0.51679,-2.4909 -4.90643,-0.82966 -3.09766,-4.42762 1.24353,-1.39248 3.5703,-2.04266 5.64844,-2.11409 0.76714,-0.0263 1.48865,0.0361 2.11922,0.15955 0.0279,0.003 0.0575,0.009 0.0854,0.0118 1.79306,0.21622 3.61625,0.8631 4.66572,2.0383 1.80877,3.59797 -2.58515,1.93672 -3.10193,4.42761 -0.51679,2.49091 2.58494,2.62866 2.58494,2.62866 l 13.28793,0.004 0,-13.03155 c 0.18955,-0.8108 0.79336,-2.2282 2.72594,-1.87875 2.66812,0.48247 0.88868,4.58454 4.74263,2.89591 1.25883,-0.97978 1.95172,-2.68187 2.18332,-4.35581 0.003,-0.0262 0.009,-0.0497 0.0132,-0.0758 0.1321,-0.58869 0.19914,-1.26226 0.17089,-1.97846 -0.0765,-1.9401 -0.77293,-4.11631 -2.26449,-5.27724 -3.85395,-1.68863 -2.07451,2.41343 -4.74263,2.89589 -2.66813,0.48247 -2.81568,-2.41324 -2.81568,-2.41324 l -0.0132,-12.48906 -13.96726,0 c -0.8758,-0.18915 -2.31944,-0.76481 -1.9526,-2.53291 0.51678,-2.49091 4.90643,-0.82966 3.09766,-4.42762 -1.04949,-1.1752 -2.8684,-1.82207 -4.66145,-2.03831 -0.0279,-0.003 -0.0575,-0.009 -0.0855,-0.0118 -0.63057,-0.12344 -1.35206,-0.18593 -2.11922,-0.15955 z"
+       id="path5728"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26421148;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26421148;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path5730"
+       d="m 535.96649,267.18904 c -2.07813,0.0714 -4.40918,0.7216 -5.65271,2.11409 -1.80876,3.59797 2.58514,1.93671 3.10194,4.42761 0.51679,2.4909 -2.58496,2.62864 -2.58496,2.62864 l 0,0 -13.36482,0 0,12.65661 c -0.0372,0.39947 -0.34657,2.70827 -2.79429,2.26567 -2.66813,-0.48247 -0.88869,-4.58054 -4.74264,-2.89191 -1.25882,0.97978 -1.95173,2.67785 -2.18332,4.35182 -0.003,0.0262 -0.009,0.0536 -0.0132,0.0798 -0.13211,0.58871 -0.19916,1.26228 -0.17092,1.97846 0.0766,1.94011 0.77295,4.11632 2.2645,5.27725 3.85396,1.68862 2.07452,-2.41343 4.74263,-2.8959 2.66813,-0.48247 2.81567,2.41325 2.81567,2.41325 l 0.0813,12.47311 c 0,0 13.41182,-0.0998 13.41182,-0.0998 0,0 3.10174,-0.13769 2.58496,-2.62866 -0.5168,-2.49089 -4.90643,-0.82964 -3.09768,-4.42761 1.24353,-1.39249 3.5703,-2.04266 5.64844,-2.1141 0.76716,-0.0263 1.48865,0.0362 2.11924,0.15956 0.0279,0.003 0.0575,0.009 0.0854,0.0118 1.79306,0.21622 3.61624,0.86311 4.66572,2.0383 1.80877,3.59797 -2.58514,1.93672 -3.10194,4.42763 -0.51679,2.49089 2.58496,2.62864 2.58496,2.62864 l 13.28791,0.004 0,-13.03155 c 0.18955,-0.81081 0.79338,-2.2282 2.72594,-1.87875 2.66812,0.48247 0.88868,4.58453 4.74263,2.8959 1.25883,-0.97977 1.95172,-2.68185 2.18332,-4.35581 0.003,-0.0261 0.009,-0.0497 0.0132,-0.0758 0.1321,-0.5887 0.19914,-1.26227 0.17091,-1.97847 -0.0766,-1.94009 -0.77295,-4.1163 -2.26451,-5.27723 -3.85395,-1.68863 -2.07451,2.41344 -4.74263,2.89589 -2.66813,0.48247 -2.81568,-2.41325 -2.81568,-2.41325 l -0.0132,-12.48906 -13.96726,0 c -0.8758,-0.18915 -2.31942,-0.76481 -1.9526,-2.5329 0.51679,-2.49091 4.90643,-0.82966 3.09766,-4.42763 -1.04949,-1.1752 -2.86838,-1.82207 -4.66145,-2.03829 -0.0279,-0.003 -0.0575,-0.009 -0.0855,-0.0118 -0.63059,-0.12344 -1.35208,-0.18592 -2.11924,-0.15955 z"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 621.05122,263.08857 c -2.07814,0.0714 -4.40918,0.72161 -5.65271,2.11408 -1.80876,3.59797 2.58514,1.93672 3.10194,4.42763 0.51679,2.49089 -2.58494,2.62864 -2.58494,2.62864 l 0,0 -13.36483,0 0,12.65661 c -0.0372,0.39947 -0.34659,2.70827 -2.79431,2.26565 -2.66812,-0.48245 -0.88867,-4.58052 -4.74263,-2.89191 -1.25881,0.97978 -1.95172,2.67787 -2.18332,4.35183 -0.003,0.0262 -0.009,0.0536 -0.0132,0.0798 -0.1321,0.5887 -0.19914,1.26227 -0.17091,1.97847 0.0766,1.9401 0.77295,4.11632 2.26451,5.27724 3.85395,1.68862 2.07451,-2.41344 4.74263,-2.8959 2.66813,-0.48246 2.81568,2.41325 2.81568,2.41325 l 0.0811,12.47312 c 0,0 13.41182,-0.0998 13.41182,-0.0998 0,0 3.10173,-0.13769 2.58495,-2.62864 -0.51679,-2.49091 -4.90643,-0.82966 -3.09767,-4.42761 1.24353,-1.39249 3.5703,-2.04268 5.64843,-2.1141 0.76716,-0.0263 1.48867,0.0361 2.11924,0.15956 0.0279,0.003 0.0575,0.009 0.0855,0.0118 1.79307,0.21622 3.61624,0.86311 4.66573,2.0383 1.80877,3.59797 -2.58515,1.93672 -3.10194,4.42761 -0.51678,2.49091 2.58495,2.62866 2.58495,2.62866 l 13.28792,0.004 0,-13.03156 c 0.18956,-0.8108 0.79337,-2.22819 2.72594,-1.87874 2.66813,0.48247 0.88867,4.58453 4.74264,2.8959 1.25881,-0.97977 1.95172,-2.68186 2.18332,-4.35581 0.003,-0.0262 0.009,-0.0497 0.0132,-0.0758 0.13211,-0.5887 0.19914,-1.26227 0.1709,-1.97847 -0.0766,-1.94009 -0.77295,-4.1163 -2.26449,-5.27723 -3.85397,-1.68863 -2.07453,2.41342 -4.74264,2.89589 -2.66812,0.48246 -2.81567,-2.41325 -2.81567,-2.41325 l -0.0132,-12.48907 -13.96728,0 c -0.8758,-0.18914 -2.31942,-0.76481 -1.95259,-2.53289 0.51678,-2.49091 4.90642,-0.82966 3.09767,-4.42763 -1.04951,-1.1752 -2.8684,-1.82208 -4.66146,-2.0383 -0.0279,-0.003 -0.0575,-0.009 -0.0855,-0.0118 -0.63057,-0.12343 -1.35207,-0.18593 -2.11922,-0.15956 z"
+       id="path5732"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26421148;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26421148;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path5734"
+       d="m 664.10615,322.54537 c -2.07814,0.0714 -4.40919,0.72161 -5.65272,2.1141 -1.80875,3.59795 2.58515,1.9367 3.10194,4.42761 0.5168,2.49089 -2.58494,2.62864 -2.58494,2.62864 l 0,0 -13.36482,0 0,12.65661 c -0.0372,0.39947 -0.34659,2.70827 -2.79431,2.26567 -2.66813,-0.48247 -0.88867,-4.58054 -4.74263,-2.89193 -1.25882,0.97978 -1.95172,2.67787 -2.18333,4.35183 -0.003,0.0262 -0.009,0.0536 -0.0132,0.0798 -0.13211,0.5887 -0.19914,1.26228 -0.17091,1.97847 0.0765,1.94009 0.77295,4.11632 2.2645,5.27725 3.85395,1.68861 2.07451,-2.41344 4.74264,-2.89591 2.66812,-0.48246 2.81567,2.41325 2.81567,2.41325 l 0.0811,12.47312 c 0,0 13.41182,-0.0998 13.41182,-0.0998 0,0 3.10173,-0.13769 2.58495,-2.62865 -0.51679,-2.4909 -4.90643,-0.82966 -3.09768,-4.42762 1.24353,-1.39248 3.5703,-2.04266 5.64844,-2.11409 0.76716,-0.0263 1.48865,0.0361 2.11924,0.15955 0.0279,0.003 0.0575,0.009 0.0854,0.0118 1.79306,0.21622 3.61624,0.8631 4.66572,2.0383 1.80877,3.59797 -2.58514,1.93672 -3.10193,4.42761 -0.51678,2.49091 2.58495,2.62866 2.58495,2.62866 l 13.28791,0.004 0,-13.03155 c 0.18956,-0.8108 0.79338,-2.2282 2.72595,-1.87875 2.66813,0.48247 0.88867,4.58454 4.74264,2.89591 1.25881,-0.97978 1.95172,-2.68187 2.18332,-4.35581 0.003,-0.0262 0.009,-0.0497 0.0132,-0.0758 0.13211,-0.58869 0.19914,-1.26226 0.1709,-1.97846 -0.0766,-1.9401 -0.77295,-4.11631 -2.26449,-5.27724 -3.85397,-1.68863 -2.07453,2.41343 -4.74265,2.89589 -2.66811,0.48247 -2.81566,-2.41324 -2.81566,-2.41324 l -0.0132,-12.48906 -13.96727,0 c -0.8758,-0.18915 -2.31942,-0.76481 -1.95259,-2.53291 0.51678,-2.49091 4.90642,-0.82966 3.09766,-4.42762 -1.0495,-1.1752 -2.86839,-1.82207 -4.66146,-2.03831 -0.0279,-0.003 -0.0575,-0.009 -0.0855,-0.0118 -0.63057,-0.12344 -1.35208,-0.18593 -2.11922,-0.15955 z"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 725.61318,295.89232 c -2.07814,0.0714 -4.40919,0.72161 -5.6527,2.1141 -1.80877,3.59795 2.58514,1.9367 3.10194,4.42761 0.51678,2.49089 -2.58496,2.62864 -2.58496,2.62864 l 0,0 -13.36482,0 0,12.6566 c -0.0372,0.39948 -0.34657,2.70828 -2.79431,2.26567 -2.66812,-0.48246 -0.88867,-4.58053 -4.74263,-2.8919 -1.25881,0.97977 -1.95172,2.67785 -2.18332,4.35181 -0.003,0.0262 -0.009,0.0536 -0.0132,0.0798 -0.13225,0.58871 -0.19914,1.26228 -0.17091,1.97847 0.0766,1.94011 0.77295,4.11632 2.26451,5.27725 3.85395,1.68861 2.0745,-2.41344 4.74263,-2.89591 2.66812,-0.48246 2.81567,2.41325 2.81567,2.41325 l 0.0811,12.47312 c 0,0 13.41183,-0.0998 13.41182,-0.0998 0,0 3.10175,-0.13769 2.58495,-2.62866 -0.51679,-2.49089 -4.90643,-0.82964 -3.09766,-4.42761 1.24353,-1.39248 3.5703,-2.04266 5.64842,-2.11409 0.76716,-0.0263 1.48866,0.0361 2.11924,0.15955 0.0281,0.003 0.0575,0.009 0.0855,0.0118 1.79306,0.21621 3.61624,0.8631 4.66572,2.0383 1.80877,3.59797 -2.58514,1.93672 -3.10192,4.42762 -0.51679,2.4909 2.58494,2.62864 2.58494,2.62864 l 13.28791,0.004 0,-13.03155 c 0.18956,-0.8108 0.79338,-2.2282 2.72595,-1.87875 2.66813,0.48247 0.88867,4.58454 4.74263,2.89591 1.25882,-0.97978 1.95172,-2.68185 2.18333,-4.35581 0.003,-0.0262 0.009,-0.0497 0.0132,-0.0758 0.13211,-0.58869 0.19914,-1.26226 0.1709,-1.97846 -0.0766,-1.9401 -0.77294,-4.11631 -2.2645,-5.27724 -3.85396,-1.68863 -2.0745,2.41344 -4.74263,2.89589 -2.66812,0.48247 -2.81567,-2.41325 -2.81567,-2.41325 l -0.0132,-12.48906 -13.96727,0 c -0.8758,-0.18914 -2.31942,-0.7648 -1.95259,-2.5329 0.51678,-2.49091 4.90643,-0.82966 3.09766,-4.42763 -1.04948,-1.1752 -2.86839,-1.82207 -4.66144,-2.03828 -0.0279,-0.003 -0.0575,-0.009 -0.0855,-0.0118 -0.63058,-0.12343 -1.35207,-0.18593 -2.11923,-0.15955 z"
+       id="path5736"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26421148;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 566.72001,206.70711 c -2.07814,0.0714 -4.40918,0.72161 -5.65271,2.1141 -1.80876,3.59797 2.58514,1.93672 3.10193,4.42761 0.5168,2.49091 -2.58493,2.62866 -2.58493,2.62866 l 0,0 -13.36483,0 0,12.6566 c -0.0372,0.39946 -0.34659,2.70827 -2.79431,2.26566 -2.66812,-0.48247 -0.88868,-4.58054 -4.74263,-2.89191 -1.25881,0.97977 -1.95172,2.67787 -2.18332,4.35183 -0.003,0.0262 -0.009,0.0536 -0.0132,0.0798 -0.13225,0.5887 -0.19915,1.26227 -0.17091,1.97846 0.0766,1.9401 0.77295,4.11631 2.26449,5.27724 3.85397,1.68861 2.07453,-2.41344 4.74264,-2.8959 2.66812,-0.48246 2.81567,2.41326 2.81567,2.41326 l 0.0813,12.4731 c 0,0 13.41182,-0.0998 13.41182,-0.0998 0,0 3.10173,-0.13769 2.58495,-2.62864 -0.51679,-2.49091 -4.90643,-0.82965 -3.09767,-4.42762 1.24353,-1.39248 3.5703,-2.04267 5.64843,-2.11408 0.76716,-0.0263 1.48865,0.0361 2.11924,0.15955 0.0279,0.003 0.0575,0.009 0.0854,0.0118 1.79306,0.21621 3.61623,0.86308 4.66572,2.0383 1.80877,3.59797 -2.58515,1.9367 -3.10194,4.42761 -0.51679,2.49089 2.58495,2.62864 2.58495,2.62864 l 13.28792,0.004 0,-13.03154 c 0.18956,-0.81081 0.79338,-2.22822 2.72593,-1.87875 2.66813,0.48245 0.88869,4.58452 4.74264,2.89589 1.25882,-0.97978 1.95172,-2.68185 2.18332,-4.35581 0.003,-0.0262 0.009,-0.0497 0.0132,-0.0758 0.13211,-0.58869 0.19916,-1.26225 0.17092,-1.97846 -0.0766,-1.9401 -0.77295,-4.11631 -2.26451,-5.27724 -3.85395,-1.68862 -2.07451,2.41344 -4.74264,2.89591 -2.66812,0.48247 -2.81565,-2.41325 -2.81565,-2.41325 l -0.0132,-12.48907 -13.96728,0 c -0.87579,-0.18915 -2.31942,-0.76481 -1.9526,-2.53291 0.5168,-2.49089 4.90644,-0.82965 3.09767,-4.42761 -1.04949,-1.1752 -2.86839,-1.82208 -4.66145,-2.0383 -0.0279,-0.003 -0.0575,-0.009 -0.0854,-0.0118 -0.63058,-0.12344 -1.35207,-0.18592 -2.11923,-0.15956 z"
+       id="path5738"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26421148;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26421148;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path5740"
+       d="m 733.81412,199.53129 c -2.07814,0.0714 -4.40918,0.72161 -5.65271,2.1141 -1.80876,3.59797 2.58514,1.93672 3.10194,4.42761 0.51679,2.49091 -2.58494,2.62865 -2.58494,2.62865 l 0,0 -13.36483,0 0,12.65661 c -0.0372,0.39946 -0.34658,2.70827 -2.79431,2.26566 -2.66812,-0.48247 -0.88868,-4.58054 -4.74263,-2.89191 -1.25881,0.97977 -1.95172,2.67787 -2.18332,4.35183 -0.003,0.0262 -0.009,0.0536 -0.0132,0.0798 -0.13211,0.58869 -0.19916,1.26226 -0.17092,1.97846 0.0766,1.9401 0.77295,4.11631 2.2645,5.27724 3.85396,1.68861 2.07452,-2.41344 4.74263,-2.89591 2.66812,-0.48245 2.81567,2.41327 2.81567,2.41327 l 0.0813,12.4731 c 0,0 13.41182,-0.0998 13.41182,-0.0998 0,0 3.10174,-0.13769 2.58496,-2.62864 -0.5168,-2.49091 -4.90644,-0.82966 -3.09768,-4.42762 1.24353,-1.39248 3.5703,-2.04267 5.64844,-2.11408 0.76716,-0.0263 1.48865,0.0361 2.11924,0.15955 0.0279,0.003 0.0575,0.009 0.0855,0.0118 1.79306,0.21622 3.61623,0.86309 4.66572,2.03831 1.80877,3.59796 -2.58515,1.9367 -3.10194,4.42761 -0.51679,2.49089 2.58495,2.62864 2.58495,2.62864 l 13.28792,0.004 0,-13.03153 c 0.18956,-0.81081 0.79338,-2.22822 2.72593,-1.87875 2.66813,0.48245 0.88869,4.58452 4.74264,2.89589 1.25882,-0.97978 1.95172,-2.68185 2.18332,-4.35581 0.003,-0.0262 0.009,-0.0497 0.0132,-0.0758 0.13211,-0.58869 0.19916,-1.26225 0.17092,-1.97846 -0.0766,-1.9401 -0.77295,-4.11631 -2.26451,-5.27724 -3.85395,-1.68863 -2.07451,2.41344 -4.74264,2.89591 -2.66812,0.48247 -2.81565,-2.41325 -2.81565,-2.41325 l -0.0132,-12.48907 -13.96728,0 c -0.87579,-0.18915 -2.31942,-0.76481 -1.9526,-2.53291 0.5168,-2.49089 4.90644,-0.82964 3.09767,-4.42761 -1.04949,-1.1752 -2.86839,-1.82208 -4.66145,-2.0383 -0.0279,-0.003 -0.0575,-0.009 -0.0855,-0.0118 -0.63059,-0.12344 -1.35208,-0.18592 -2.11924,-0.15956 z"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 682.55825,240.53599 c -2.07814,0.0714 -4.40918,0.7216 -5.6527,2.11409 -1.80877,3.59797 2.58515,1.93672 3.10194,4.42761 0.51678,2.49091 -2.58495,2.62866 -2.58495,2.62866 l 0,0 -13.36483,0 0,12.65659 c -0.0372,0.39947 -0.34657,2.70829 -2.79431,2.26567 -2.66812,-0.48247 -0.88867,-4.58054 -4.74263,-2.89191 -1.25881,0.97978 -1.95172,2.67785 -2.18332,4.35183 -0.003,0.0262 -0.009,0.0536 -0.0132,0.0798 -0.13211,0.58871 -0.19915,1.26228 -0.1709,1.97848 0.0766,1.9401 0.77293,4.11631 2.26449,5.27724 3.85395,1.68861 2.07451,-2.41344 4.74263,-2.89591 2.66813,-0.48246 2.81568,2.41325 2.81568,2.41325 l 0.0811,12.47312 c 0,0 13.41184,-0.0998 13.41182,-0.0998 0,0 3.10175,-0.13769 2.58496,-2.62866 -0.5168,-2.49089 -4.90644,-0.82964 -3.09767,-4.42761 1.24353,-1.39247 3.5703,-2.04266 5.64843,-2.11408 0.76716,-0.0263 1.48866,0.0361 2.11923,0.15956 0.0279,0.003 0.0575,0.009 0.0855,0.0118 1.79306,0.21622 3.61624,0.8631 4.66572,2.0383 1.80877,3.59797 -2.58515,1.93672 -3.10193,4.42763 -0.51679,2.49089 2.58494,2.62864 2.58494,2.62864 l 13.28792,0.004 0,-13.03156 c 0.18956,-0.8108 0.79337,-2.2282 2.72595,-1.87873 2.66812,0.48245 0.88868,4.58452 4.74263,2.89589 1.25881,-0.97977 1.95172,-2.68185 2.18332,-4.35581 0.003,-0.0262 0.009,-0.0497 0.0132,-0.0758 0.1321,-0.5887 0.19914,-1.26227 0.17089,-1.97847 -0.0766,-1.94009 -0.77293,-4.1163 -2.26449,-5.27724 -3.85396,-1.68862 -2.07451,2.41344 -4.74263,2.89591 -2.66813,0.48247 -2.81568,-2.41325 -2.81568,-2.41325 l -0.0132,-12.48907 -13.96728,0 c -0.87579,-0.18915 -2.31942,-0.76481 -1.95258,-2.53291 0.51677,-2.49089 4.90643,-0.82965 3.09766,-4.42762 -1.04949,-1.1752 -2.8684,-1.82207 -4.66145,-2.03829 -0.0279,-0.003 -0.0575,-0.009 -0.0855,-0.0117 -0.63057,-0.12344 -1.35206,-0.18592 -2.11922,-0.15956 z"
+       id="path5742"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26421148;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.26421148;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path5744"
+       d="m 641.55356,199.53129 c -2.07814,0.0714 -4.40918,0.72161 -5.6527,2.1141 -1.80877,3.59797 2.58515,1.93672 3.10194,4.42761 0.51678,2.49091 -2.58495,2.62865 -2.58495,2.62865 l 0,0 -13.36483,0 0,12.65661 c -0.0372,0.39946 -0.34657,2.70827 -2.79431,2.26566 -2.66812,-0.48247 -0.88867,-4.58054 -4.74263,-2.89191 -1.25881,0.97977 -1.95172,2.67787 -2.18332,4.35183 -0.003,0.0262 -0.009,0.0536 -0.0132,0.0798 -0.1321,0.58869 -0.19914,1.26226 -0.1709,1.97846 0.0766,1.9401 0.77295,4.11631 2.2645,5.27724 3.85395,1.68861 2.07451,-2.41344 4.74263,-2.89591 2.66813,-0.48245 2.81567,2.41327 2.81567,2.41327 l 0.0813,12.4731 c 0,0 13.41182,-0.0998 13.4118,-0.0998 0,0 3.10175,-0.13769 2.58496,-2.62864 -0.5168,-2.49091 -4.90644,-0.82966 -3.09767,-4.42762 1.24353,-1.39248 3.5703,-2.04267 5.64844,-2.11408 0.76714,-0.0263 1.48865,0.0361 2.11922,0.15955 0.0279,0.003 0.0575,0.009 0.0855,0.0118 1.79306,0.21622 3.61624,0.86309 4.66573,2.03831 1.80876,3.59796 -2.58516,1.9367 -3.10194,4.42761 -0.51679,2.49089 2.58494,2.62864 2.58494,2.62864 l 13.28793,0.004 0,-13.03153 c 0.18955,-0.81081 0.79336,-2.22822 2.72594,-1.87875 2.66812,0.48245 0.88868,4.58452 4.74263,2.89589 1.25882,-0.97978 1.95172,-2.68185 2.18332,-4.35581 0.003,-0.0262 0.009,-0.0497 0.0132,-0.0758 0.13211,-0.58869 0.19915,-1.26225 0.1709,-1.97846 -0.0766,-1.9401 -0.77293,-4.11631 -2.26449,-5.27724 -3.85395,-1.68863 -2.07451,2.41344 -4.74263,2.89591 -2.66813,0.48247 -2.81568,-2.41325 -2.81568,-2.41325 l -0.0132,-12.48907 -13.96726,0 c -0.8758,-0.18915 -2.31944,-0.76481 -1.95261,-2.53291 0.5168,-2.49089 4.90644,-0.82964 3.09767,-4.42761 -1.04949,-1.1752 -2.8684,-1.82208 -4.66145,-2.0383 -0.0279,-0.003 -0.0575,-0.009 -0.0855,-0.0118 -0.63057,-0.12344 -1.35206,-0.18592 -2.11922,-0.15956 z"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.25117302px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="458.00418"
+       y="259.08295"
+       id="text5746"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5748"
+         x="458.00418"
+         y="259.08295">GitHub</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5750"
+       y="334.46606"
+       x="570.77502"
+       style="font-size:10.25117302px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="334.46606"
+         x="570.77502"
+         id="tspan5752"
+         sodipodi:role="line">Check-</tspan><tspan
+         y="344.71722"
+         x="570.77502"
+         sodipodi:role="line"
+         id="tspan5754">style</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.25117302px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="566.67468"
+       y="228.87898"
+       id="text5756"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan5758"
+         sodipodi:role="line"
+         x="566.67468"
+         y="228.87898">Build</tspan><tspan
+         sodipodi:role="line"
+         x="566.67468"
+         y="239.13016"
+         id="tspan5760">Flow</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5762"
+       y="344.71722"
+       x="664.06073"
+       style="font-size:10.25117302px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan5764"
+         y="344.71722"
+         x="664.06073"
+         sodipodi:role="line"
+         style="font-size:8.20093822px">Task</tspan><tspan
+         y="352.91815"
+         x="664.06073"
+         sodipodi:role="line"
+         id="tspan5766"
+         style="font-size:8.20093822px">Scanner</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.25117302px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="488.76578"
+       y="351.8931"
+       id="text5768"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan5770"
+         sodipodi:role="line"
+         x="488.76578"
+         y="351.8931">PMD</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5772"
+       y="289.36093"
+       x="535.92114"
+       style="font-size:10.25117302px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="289.36093"
+         x="535.92114"
+         sodipodi:role="line"
+         id="tspan5774">Find</tspan><tspan
+         y="299.61209"
+         x="535.92114"
+         sodipodi:role="line"
+         id="tspan5776">Bugs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.25117302px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="622.03094"
+       y="284.23532"
+       id="text5778"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan5780"
+         sodipodi:role="line"
+         x="622.03094"
+         y="284.23532">Warn-</tspan><tspan
+         sodipodi:role="line"
+         x="622.03094"
+         y="294.48648"
+         id="tspan5782">ings</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5784"
+       y="325.24002"
+       x="725.56775"
+       style="font-size:10.25117302px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan5786"
+         y="325.24002"
+         x="725.56775"
+         sodipodi:role="line">DRY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.25117302px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="734.79382"
+       y="221.70317"
+       id="text5788"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan5790"
+         sodipodi:role="line"
+         x="734.79382"
+         y="221.70317"
+         style="font-size:8.20093822px">Perform-</tspan><tspan
+         sodipodi:role="line"
+         x="734.79382"
+         y="229.90411"
+         style="font-size:8.20093822px"
+         id="tspan5792">ance</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5794"
+       y="268.85855"
+       x="683.53802"
+       style="font-size:10.25117302px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="268.85855"
+         x="683.53802"
+         sodipodi:role="line"
+         id="tspan5796">Emma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.25117302px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="642.02081"
+       y="227.85384"
+       id="text5798"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan5800"
+         sodipodi:role="line"
+         x="642.02081"
+         y="227.85384">Metrics</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5812"
+       width="153.76111"
+       height="37.672089"
+       x="621.09351"
+       y="122.79163"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       rx="5"
+       ry="5" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5814"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.34880785,0,0,0.34880785,595.85304,-16.295692)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion5816"><rect
+           id="rect5818"
+           width="422.86218"
+           height="86.544601"
+           x="79.787231"
+           y="413.00049"
+           style="text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara5820"
+         style="font-size:57.33815765px">Oracle JDK</flowPara></flowRoot>    <rect
+       ry="5"
+       rx="5"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       y="134.71901"
+       x="176.68585"
+       height="183.93294"
+       width="221.8181"
+       id="rect5822"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       transform="matrix(0.51255863,0,0,0.51255863,131.80815,-72.390837)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5824"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5826"><rect
+           style="text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           y="413.00049"
+           x="79.787231"
+           height="55.261673"
+           width="281.85904"
+           id="rect5828" /></flowRegion><flowPara
+         id="flowPara5830">GCloud SDK</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5857"
+       style="font-size:31.21594048px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.51255863,0,0,0.51255863,171.80815,-36.390837)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion5859"><rect
+           id="rect5861"
+           width="281.85904"
+           height="55.261673"
+           x="79.787231"
+           y="413.00049"
+           style="font-size:31.21594048px;text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara5863">App Engine SDK</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       transform="matrix(0.51255863,0,0,0.51255863,171.80815,-4.390837)"
+       style="font-size:31.21594048px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5865"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5867"><rect
+           style="font-size:31.21594048px;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           y="413.00049"
+           x="79.787231"
+           height="55.261673"
+           width="281.85904"
+           id="rect5869" /></flowRegion><flowPara
+         id="flowPara5871">Cloud SDK</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5873"
+       style="font-size:31.21594048px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.51255863,0,0,0.51255863,149.80815,23.609163)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion5875"><rect
+           id="rect5877"
+           width="405.42209"
+           height="120.29485"
+           x="62.445042"
+           y="410.8327"
+           style="font-size:31.21594048px;text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara5879">Developer Preview</flowPara><flowPara
+         id="flowPara5881">Commands + Extensions</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       transform="matrix(0.51255863,0,0,0.51255863,149.80815,73.609163)"
+       style="font-size:31.21594048px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5883"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5885"><rect
+           style="font-size:31.21594048px;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           y="410.8327"
+           x="62.445042"
+           height="120.29485"
+           width="405.42209"
+           id="rect5887" /></flowRegion><flowPara
+         id="flowPara5891">gcloud app extensions</flowPara></flowRoot>    <rect
+       ry="10"
+       rx="10"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       y="-661.17029"
+       x="167.80263"
+       height="80.851067"
+       width="310.38535"
+       id="rect5895"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       transform="translate(12.459824,-1066.1709)"
+       style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5897"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5899"><rect
+           style="font-size:28px;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           y="413.00049"
+           x="79.787231"
+           height="86.453896"
+           width="459.38535"
+           id="rect5901" /></flowRegion><flowPara
+         id="flowPara5903"
+         style="font-size:24px;font-weight:normal;-inkscape-font-specification:Sans">Compile +</flowPara><flowPara
+         id="flowPara5915"
+         style="font-size:24px;font-weight:normal;-inkscape-font-specification:Sans">Static Analysis Tests</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5917"
+       width="310.38535"
+       height="80.851067"
+       x="505.80261"
+       y="-661.17029"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       rx="10"
+       ry="10" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5919"
+       style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(350.45982,-1064.1709)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion5921"><rect
+           id="rect5923"
+           width="459.38535"
+           height="86.453896"
+           x="79.787231"
+           y="413.00049"
+           style="font-size:28px;text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara5925"
+         style="font-size:24px">Compile +</flowPara><flowPara
+         id="flowPara5927"
+         style="font-size:24px">Unit &amp; Integration Tests</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5931"
+       width="397.73962"
+       height="80.590706"
+       x="283.9328"
+       y="-477.04059"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       rx="10"
+       ry="10" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5933"
+       style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(174.45982,-882.1709)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion5935"><rect
+           id="rect5937"
+           width="459.38535"
+           height="86.453896"
+           x="79.787231"
+           y="413.00049"
+           style="font-size:28px;text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:24px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5939">Deploy to        + </flowPara><flowPara
+         style="font-size:24px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5941">Integration &amp; Performance Tests</flowPara></flowRoot>    <image
+       y="-470.52661"
+       x="514.33331"
+       id="image5986"
+       xlink:href="data:image/png;base64,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
+"
+       width="38.111111"
+       height="33.876545"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,631.28841,-482.71623)"
+       id="g5989">
+      <path
+         d="m 85.755501,300.12094 -9.591076,5.53741 -9.591076,5.53741 0,-11.07482 0,-11.07482 9.591076,5.53741 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0"
+         sodipodi:r2="6.3940506"
+         sodipodi:r1="12.788101"
+         sodipodi:cy="300.12094"
+         sodipodi:cx="72.9674"
+         sodipodi:sides="3"
+         id="path5991"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star"
+         transform="translate(0,50)"
+         inkscape:transform-center-x="-3.1970253" />
+      <rect
+         y="343.52844"
+         x="-28.640257"
+         height="12.903647"
+         width="95.143677"
+         id="rect5993"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g5995"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,589.46396,-795.76254)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:transform-center-x="-3.1970253"
+         transform="translate(0,50)"
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5997"
+         sodipodi:sides="3"
+         sodipodi:cx="72.9674"
+         sodipodi:cy="300.12094"
+         sodipodi:r1="12.788101"
+         sodipodi:r2="6.3940506"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 85.755501,300.12094 -9.591076,5.53741 -9.591076,5.53741 0,-11.07482 0,-11.07482 9.591076,5.53741 z" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect5999"
+         width="95.143677"
+         height="12.903647"
+         x="-28.640257"
+         y="343.52844" />
+    </g>
+    <g
+       id="g6001"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,845.46396,-977.76254)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:transform-center-x="-3.1970253"
+         transform="translate(0,50)"
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path6003"
+         sodipodi:sides="3"
+         sodipodi:cx="72.9674"
+         sodipodi:cy="300.12094"
+         sodipodi:r1="12.788101"
+         sodipodi:r2="6.3940506"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 85.755501,300.12094 -9.591076,5.53741 -9.591076,5.53741 0,-11.07482 0,-11.07482 9.591076,5.53741 z" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect6005"
+         width="95.143677"
+         height="12.903647"
+         x="-28.640257"
+         y="343.52844" />
+    </g>
+    <g
+       id="g6007"
+       transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,885.28841,-300.71623)"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:transform-center-x="-3.1970253"
+         transform="translate(0,50)"
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path6009"
+         sodipodi:sides="3"
+         sodipodi:cx="72.9674"
+         sodipodi:cy="300.12094"
+         sodipodi:r1="12.788101"
+         sodipodi:r2="6.3940506"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 85.755501,300.12094 -9.591076,5.53741 -9.591076,5.53741 0,-11.07482 0,-11.07482 9.591076,5.53741 z" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect6011"
+         width="95.143677"
+         height="12.903647"
+         x="-28.640257"
+         y="343.52844" />
+    </g>
+    <image
+       y="24.862288"
+       x="769.16669"
+       id="image6138"
+       xlink:href="data:image/png;base64,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
+"
+       height="55"
+       width="55"
+       inkscape:export-filename="/Users/i824556/Documents/_projects/google_app_engine/ci-boilerplate/img/ci-integration-pipeline_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

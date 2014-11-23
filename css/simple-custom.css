@@ -1,0 +1,12 @@
+
+
+/* Customizing image display */
+/*********************************************
+ * IMAGES
+ *********************************************/
+.reveal section img {
+  margin: none;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
