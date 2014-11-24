@@ -1,0 +1,8 @@
+{
+  "apiVersion": "v1beta2",
+  "kind": "Service",
+  "id": "jenkins-master",
+  "port": 8080,
+  "containerPort": "jenkins-server",
+  "selector": { "name": "jenkins-master-pod" }
+}
