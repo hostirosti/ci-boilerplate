@@ -130,9 +130,22 @@ Copy the displayed url in your prefered browser, authenticate the Google Cloud S
 
 The last step on your Jenkins docker image is to add the example Jenkins configuration.
 ```
-jenkins@jenkins-master-pod:/$ cd /var/jenkins_home && curl -o jenkins-config.zip https://codeload.github.com/hostirosti/ci-boilerplate/zip/master
-jenkins@jenkins-master-pod:/$ unzip jenkins-config.zip && mv ci-boilerplate-master/* . && rm -rf ci-boilerplate-master
+jenkins@jenkins-master-pod:/$ cd /var/jenkins_home && curl -o jenkins-config.zip \
+	https://codeload.github.com/hostirosti/ci-boilerplate/zip/master
+
+jenkins@jenkins-master-pod:/$ unzip jenkins-config.zip && \ 
+	mv ci-boilerplate-master/jenkins-configuration/* . && \
+	rm -rf ci-boilerplate-master jenkins-config.zip
 ```
+
+After loading all configs into your ```jenkins_home``` you need to trigger a reload of the configuration.
+Go to *Manage Jenkins -> Reload Configuration from Disk*.
+
+[Temporary Hack] Currently there seems to be a problem with picking up the configuration for the Maven Installations.
+If you encounter an build error with ```ERROR: A Maven installation needs to be available...``` please set the maven installations under
+*Manage Jenkins -> Configure System* as follows
+![Jenkins Config Maven Installations](/images/jenkins/jenkins_maven_settings.png)
+
 
 ### Configure GitHub Repository, Jenkins and GitHub PullRequest Plugin
 
