@@ -144,7 +144,7 @@ Go to *Manage Jenkins -> Reload Configuration from Disk*.
 [Temporary Hack] Currently there seems to be a problem with picking up the configuration for the Maven Installations.
 If you encounter an build error with ```ERROR: A Maven installation needs to be available...``` please set the maven installations under
 *Manage Jenkins -> Configure System* as follows
-![Jenkins Config Maven Installations](/images/jenkins/jenkins_maven_settings.png)
+![Jenkins Config Maven Installations](/images/jenkins_maven_settings.png)
 
 
 ### Configure GitHub Repository, Jenkins and GitHub PullRequest Plugin
